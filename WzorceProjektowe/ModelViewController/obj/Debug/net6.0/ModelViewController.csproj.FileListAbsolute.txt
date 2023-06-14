@@ -1,0 +1,15 @@
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\bin\Debug\net6.0\ModelViewController.exe
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\bin\Debug\net6.0\ModelViewController.deps.json
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\bin\Debug\net6.0\ModelViewController.runtimeconfig.json
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\bin\Debug\net6.0\ModelViewController.dll
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\bin\Debug\net6.0\ModelViewController.pdb
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\obj\Debug\net6.0\ModelViewController.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\obj\Debug\net6.0\ModelViewController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\obj\Debug\net6.0\ModelViewController.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\obj\Debug\net6.0\ModelViewController.AssemblyInfo.cs
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\obj\Debug\net6.0\ModelViewController.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\obj\Debug\net6.0\ModelViewController.dll
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\obj\Debug\net6.0\refint\ModelViewController.dll
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\obj\Debug\net6.0\ModelViewController.pdb
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\obj\Debug\net6.0\ModelViewController.genruntimeconfig.cache
+C:\Users\patry\source\repos\WzorceProjektowe\ModelViewController\obj\Debug\net6.0\ref\ModelViewController.dll

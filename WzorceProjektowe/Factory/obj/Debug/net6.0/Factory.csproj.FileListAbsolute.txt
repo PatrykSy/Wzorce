@@ -1,0 +1,15 @@
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\bin\Debug\net6.0\Factory.exe
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\bin\Debug\net6.0\Factory.deps.json
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\bin\Debug\net6.0\Factory.runtimeconfig.json
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\bin\Debug\net6.0\Factory.dll
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\bin\Debug\net6.0\Factory.pdb
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\obj\Debug\net6.0\Factory.dll
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\obj\Debug\net6.0\refint\Factory.dll
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\obj\Debug\net6.0\Factory.pdb
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\obj\Debug\net6.0\Factory.genruntimeconfig.cache
+C:\Users\patry\source\repos\WzorceProjektowe\Factory\obj\Debug\net6.0\ref\Factory.dll

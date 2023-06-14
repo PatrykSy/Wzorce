@@ -1,0 +1,15 @@
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\bin\Debug\net6.0\ChainOfResponsibilities.exe
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\bin\Debug\net6.0\ChainOfResponsibilities.deps.json
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\bin\Debug\net6.0\ChainOfResponsibilities.runtimeconfig.json
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\bin\Debug\net6.0\ChainOfResponsibilities.dll
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\bin\Debug\net6.0\ChainOfResponsibilities.pdb
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\obj\Debug\net6.0\ChainOfResponsibilities.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\obj\Debug\net6.0\ChainOfResponsibilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\obj\Debug\net6.0\ChainOfResponsibilities.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\obj\Debug\net6.0\ChainOfResponsibilities.AssemblyInfo.cs
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\obj\Debug\net6.0\ChainOfResponsibilities.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\obj\Debug\net6.0\ChainOfResponsibilities.dll
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\obj\Debug\net6.0\refint\ChainOfResponsibilities.dll
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\obj\Debug\net6.0\ChainOfResponsibilities.pdb
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\obj\Debug\net6.0\ChainOfResponsibilities.genruntimeconfig.cache
+C:\Users\patry\source\repos\WzorceProjektowe\ChainOfResponsibilities\obj\Debug\net6.0\ref\ChainOfResponsibilities.dll
